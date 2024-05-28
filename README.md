@@ -4,11 +4,9 @@
 
 - 🔭 I’m currently working on [Projeto Lanches Web](https://github.com/ViniciusHenriqueWebDev/ApiCatalogoJogos)
 
-- 🌱 I’m currently learning **.NET Web Api**
+- 🌱 I’m currently learning **Flutter Apps**
 
 - 👯 I’m looking to collaborate on **Back End Projects**
-
-- 🤝 I’m looking for help with **.NET Web Pages**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ViniciusHenriqueWebDev/](https://github.com/ViniciusHenriqueWebDev/)
 
